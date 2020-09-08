@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" automaticImage="JPEG" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="false" nesting-relationships="true" 
+  router="FAN">  
+  <class cardId="1" language="java" name="model.GrainCard" project="CatanV2" file="/CatanV2/src/model/GrainCard.java"
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="852" y="105"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class cardId="2" language="java" name="model.KnightCard" project="CatanV2" file="/CatanV2/src/model/KnightCard.java"
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="934" y="501"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class cardId="3" language="java" name="model.City" project="CatanV2" file="/CatanV2/src/model/City.java" binary="false"
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="568" y="263"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class cardId="4" language="java" name="model.ResourceCard" project="CatanV2" file="/CatanV2/src/model/ResourceCard.java"
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1121" y="145"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class cardId="5" language="java" name="model.Settlement" project="CatanV2" file="/CatanV2/src/model/Settlement.java"
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="426" y="103"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class cardId="6" language="java" name="model.Village" project="CatanV2" file="/CatanV2/src/model/Village.java"
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="483" y="247"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class cardId="7" language="java" name="model.DevelopmentCard" project="CatanV2"
+    file="/CatanV2/src/model/DevelopmentCard.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="746" y="410"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class cardId="8" language="java" name="model.User" project="CatanV2" file="/CatanV2/src/model/User.java" binary="false"
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="471" y="445"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class cardId="9" language="java" name="model.AccountModel" project="CatanV2" file="/CatanV2/src/model/AccountModel.java"
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="63" width="125" x="131" y="337"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class cardId="10" language="java" name="model.TradeModel" project="CatanV2" file="/CatanV2/src/model/TradeModel.java"
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="193" width="122" x="-3" y="212"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class cardId="11" language="java" name="model.OreCard" project="CatanV2" file="/CatanV2/src/model/OreCard.java"
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="932" y="260"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class cardId="12" language="java" name="model.Structure" project="CatanV2" file="/CatanV2/src/model/Structure.java"
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="371" y="247"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class cardId="13" language="java" name="model.ClayCard" project="CatanV2" file="/CatanV2/src/model/ClayCard.java"
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="862" y="179"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class cardId="14" language="java" name="model.VictoryPoint" project="CatanV2" file="/CatanV2/src/model/VictoryPoint.java"
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="969" y="451"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class cardId="15" language="java" name="model.TileModel" project="CatanV2" file="/CatanV2/src/model/TileModel.java"
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="54" width="166" x="27" y="425"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class cardId="16" language="java" name="model.WoodCard" project="CatanV2" file="/CatanV2/src/model/WoodCard.java"
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="947" y="333"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class cardId="17" language="java" name="model.CatanModel" project="CatanV2" file="/CatanV2/src/model/CatanModel.java"
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="592" y="89"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class cardId="18" language="java" name="model.Road" project="CatanV2" file="/CatanV2/src/model/Road.java" binary="false"
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="184" y="283"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class cardId="19" language="java" name="model.SheepCard" project="CatanV2" file="/CatanV2/src/model/SheepCard.java"
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="834" y="44"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class cardId="20" language="java" name="model.ChatModel" project="CatanV2" file="/CatanV2/src/model/ChatModel.java"
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="78" width="137" x="240" y="404"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class cardId="21" language="java" name="model.LocationModel" project="CatanV2"
+    file="/CatanV2/src/model/LocationModel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="173" y="93"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <association cardId="22">
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute cardId="23" name="road"/>
+      <multiplicity cardId="24" minimum="0" maximum="1"/>
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization cardId="25">
+    <bendpoint x="1060" y="274"/>    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <generalization cardId="26">
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <generalization cardId="27">
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <association cardId="28">
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute cardId="29" name="bricks"/>
+      <multiplicity cardId="30" minimum="0" maximum="2147483647"/>
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association cardId="31">
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute cardId="32" name="villages"/>
+      <multiplicity cardId="33" minimum="0" maximum="2147483647"/>
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization cardId="34">
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="12"/>  
+  </generalization>  
+  <association cardId="35">
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute cardId="36" name="settlement"/>
+      <multiplicity cardId="37" minimum="0" maximum="1"/>
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association cardId="38">
+    <bendpoint x="491" y="543"/>    
+    <bendpoint x="1052" y="536"/>    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute cardId="39" name="playRCards"/>
+      <multiplicity cardId="40" minimum="0" maximum="2147483647"/>
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association cardId="41">
+    <bendpoint x="636" y="307"/>    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute cardId="42" name="users"/>
+      <multiplicity cardId="43" minimum="0" maximum="2147483647"/>
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association cardId="44">
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute cardId="45" name="bread"/>
+      <multiplicity cardId="46" minimum="0" maximum="2147483647"/>
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association cardId="47">
+    <bendpoint x="766" y="296"/>    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute cardId="48" name="forest"/>
+      <multiplicity cardId="49" minimum="0" maximum="2147483647"/>
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization cardId="50">
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <generalization cardId="51">
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <association cardId="52">
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute cardId="53" name="playDCards"/>
+      <multiplicity cardId="54" minimum="0" maximum="2147483647"/>
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association cardId="55">
+    <bendpoint x="762" y="228"/>    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute cardId="56" name="ores"/>
+      <multiplicity cardId="57" minimum="0" maximum="2147483647"/>
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization cardId="58">
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <association cardId="59">
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute cardId="60" name="flock"/>
+      <multiplicity cardId="61" minimum="0" maximum="2147483647"/>
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization cardId="62">
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="12"/>  
+  </generalization>  
+  <generalization cardId="63">
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <association cardId="64">
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute cardId="65" name="devCards"/>
+      <multiplicity cardId="66" minimum="0" maximum="2147483647"/>
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization cardId="67">
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <generalization cardId="68">
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <association cardId="69">
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute cardId="70" name="roads"/>
+      <multiplicity cardId="71" minimum="0" maximum="2147483647"/>
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association cardId="72">
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute cardId="73" name="cities"/>
+      <multiplicity cardId="74" minimum="0" maximum="2147483647"/>
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="false" protected="true" private="true" static="true"/>    
+    <operations public="false" package="false" protected="false" private="false" static="false"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

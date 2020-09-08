@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" automaticImage="JPEG" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="false" nesting-relationships="true" 
+  router="FAN">  
+  <class cardId="1" language="java" name="controller.Dice" project="CatanV2" file="/CatanV2/src/controller/Dice.java"
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="96" y="380"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class cardId="2" language="java" name="controller.Tile" project="CatanV2" file="/CatanV2/src/controller/Tile.java"
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="83" y="494"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class cardId="3" language="java" name="controller.Board" project="CatanV2" file="/CatanV2/src/controller/Board.java"
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="239" y="398"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class cardId="4" language="java" name="controller.Location" project="CatanV2"
+    file="/CatanV2/src/controller/Location.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="359" y="502"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class cardId="5" language="java" name="controller.Chat" project="CatanV2" file="/CatanV2/src/controller/Chat.java"
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="389" y="402"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class cardId="6" language="java" name="controller.Catan" project="CatanV2" file="/CatanV2/src/controller/Catan.java"
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="164" y="155"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class cardId="7" language="java" name="controller.Game" project="CatanV2" file="/CatanV2/src/controller/Game.java"
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="352" y="175"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class cardId="8" language="java" name="controller.Lobby" project="CatanV2" file="/CatanV2/src/controller/Lobby.java"
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="37" width="67" x="298" y="72"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class cardId="9" language="java" name="controller.Trade" project="CatanV2" file="/CatanV2/src/controller/Trade.java"
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="361" y="302"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <association cardId="10">
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute cardId="11" name="board"/>
+      <multiplicity cardId="12" minimum="0" maximum="1"/>
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association cardId="13">
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute cardId="14" name="dice"/>
+      <multiplicity cardId="15" minimum="0" maximum="1"/>
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association cardId="16">
+    <bendpoint x="203" y="536"/>    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute cardId="17" name="borderLocations"/>
+      <multiplicity cardId="18" minimum="0" maximum="2147483647"/>
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association cardId="19">
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute cardId="20" name="locations"/>
+      <multiplicity cardId="21" minimum="0" maximum="2147483647"/>
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association cardId="22">
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute cardId="23" name="lobby"/>
+      <multiplicity cardId="24" minimum="0" maximum="1"/>
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association cardId="25">
+    <bendpoint x="197" y="472"/>    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute cardId="26" name="location"/>
+      <multiplicity cardId="27" minimum="0" maximum="1"/>
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association cardId="28">
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute cardId="29" name="chatBox"/>
+      <multiplicity cardId="30" minimum="0" maximum="1"/>
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association cardId="31">
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute cardId="32" name="trade"/>
+      <multiplicity cardId="33" minimum="0" maximum="1"/>
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association cardId="34">
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute cardId="35" name="catan"/>
+      <multiplicity cardId="36" minimum="0" maximum="1"/>
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association cardId="37">
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute cardId="38" name="tiles"/>
+      <multiplicity cardId="39" minimum="0" maximum="2147483647"/>
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="false" protected="true" private="true" static="true"/>    
+    <operations public="false" package="false" protected="false" private="false" static="false"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
